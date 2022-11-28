@@ -2,5 +2,5 @@ altair==4.1.0
 numpy==1.20.2
 pandas==1.2.4
 scipy==1.6.3
-streamlit==0.81.1
+streamlit-nightly
 plotly==5.3.1
