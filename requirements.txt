@@ -2,7 +2,7 @@ altair==4.1.0
 numpy==1.20.2
 pandas==1.2.4
 scipy==1.6.3
-streamlit-nightly
-plotly==5.3.1
+streamlit==1.19.0
+plotly==5.13.1
 xlrd==1.2.0
 openpyxl
